@@ -60,6 +60,7 @@ Ada pun sample data yang bisa dilihat seperti dibawah ini.
 | Realme X2 Pro                 | Realme | X2 Pro                | 4000                   | 6.5                  | Yes         | 1080         | 2400         | 8         | 6000     | 64.0                  | 64.0         | 16.0         | Android          | Yes   | Yes       | Yes | 2              | Yes | Yes      | 27999 |
 | iPhone 11 Pro Max             | Apple  | iPhone 11 Pro Max     | 3969                   | 6.5                  | Yes         | 1242         | 2688         | 6         | 4000     | 64.0                  | 12.0         | 12.0         | iOS              | Yes   | Yes       | Yes | 2              | Yes | Yes      | 106900 |
 | iPhone 11                     | Apple  | iPhone 11             | 3110                   | 6.1                  | Yes         | 828          | 1792         | 6         | 4000     | 64.0                  | 12.0         | 12.0         | iOS              | Yes   | Yes       | Yes | 2              | Yes | Yes      | 62900 |
+
 Tabel 1 : Sample Data
 Untuk sample data bisa dilihat seperti pada tabel 1.
 
